@@ -1,0 +1,8 @@
+html, body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 3vw ;
+}
+
+.link a{
+    color: rgb(16, 141, 214);
+}

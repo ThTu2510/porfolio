@@ -1,0 +1,32 @@
+html, body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 3vw ;
+}
+ a{
+    font-weight: 600;
+    color: rgb(226, 15, 15);
+}
+ol li{
+    font-weight: 800;
+    color: rgb(114, 4, 41);
+}
+.booksmacro{
+    display: flex;
+    justify-content: space-around;
+    padding: 5vh;
+    
+}
+img{
+    height: 25vh;
+}
+
+.macro{
+    text-align: center;
+}
+.vang{
+    text-align: center;
+    padding-right: 6vw;
+}
+.link a{
+    color: rgb(16, 141, 214);
+}
